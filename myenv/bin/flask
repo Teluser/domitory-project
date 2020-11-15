@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #!/home/linh/domitory-project/myenv/bin/python3
 
+=======
+#!/home/manhlab/source_code/domitory-project/myenv/bin/python3
+>>>>>>> b5ced24e5f12c188b64a5b5cfbdf91a4f933d20a
 # -*- coding: utf-8 -*-
 import re
 import sys
